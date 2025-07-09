@@ -1,0 +1,19 @@
+@import url(styles/header.css);
+@import url(styles/main.css);
+@import url(styles/footer.css);
+
+:root{
+    --fonte-principal: "Inter", sans-serif;
+    --cinza: #667085;
+    --marrom: #8E2424;
+    --branco: #ffff;
+    --azul-marinho: #101828;
+}
+
+
+body{
+    
+    width: 100%;
+    height: 100vh;
+    
+}
